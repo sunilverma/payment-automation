@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payment>
+
+	<paymentHeader>
+		<id>1234</id>
+	</paymentHeader>
+	
+	<paymentDetails>
+		<id>1234</id>
+		<version>1</version>
+		<amount>1000</amount>
+		<valueDate>10-10-2010</valueDate>
+	</paymentDetails>
+</payment>
