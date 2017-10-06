@@ -1,0 +1,15 @@
+{
+	"alert": {
+		"type": "REACT",
+		"description": " Trade Limit exceeded alert",
+		"parameter": {
+		     "id":"ghdsgdhsghdj88989",
+			"message": "Please approve/reject following exceeded threshold",
+			"client": "Symphony",
+			"limit": "100",
+			"ccy": "USD",
+			"trader": " Trader Joe",
+			"tradeDate": "2018-01-14"
+		}
+	}
+}

@@ -1,0 +1,25 @@
+<messageML>
+   <b>$message</b><br/>
+   <table>
+   		<tr>
+   			<th>Client</th>
+   			<th>Limit</th>
+   			<th>CCY</th>
+   			<th>Trader</th>
+   			<th>Trade Date</th>
+   		</tr>
+   		<tr>
+   			<td>$client</td>
+   			<td>$limit</td>
+   			<td>$ccy</td>
+   			<td>$trader</td>
+   			<td>$tradeDate</td>
+   		</tr>
+   
+   </table><br/>
+   
+   <a href="http://localhost:8080/service/handleActoion?id=?$tradeId" >Approve</a>                      
+   <a href="http://localhost:8080/service/handleActoion?id=?$tradeId" class="tempo-text-color--red">Reject</a>
+   
+</messageML>
+
